@@ -23,7 +23,7 @@ The control application runs test scripts written in Lua and uses the client
 library to communicate with servers featuring various test and interface
 plugins. The end result is a test log listing passed and failed tests.
 
-![Test Gear Overview](profile/images/testgear-overview.png)
+![Test Gear Overview](profile/images/testgear-overview.png?raw=true)
 
 
 ### 1.2 Motivation
